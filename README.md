@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - ✍️ &nbsp; SoICT - Hanoi University of Science and Technology. Major: Computer Science.
-- 🌱 &nbsp; Learning more about Algorithms, ML, AI, and webapp development.
+- 🌱 &nbsp; Learning more about DevSecOps, ML, AI, and Webapp development.
 - 📚 &nbsp; Check my solved solutions in <a href="https://leetcode.com/NamVh/" _targer="blank">LeetCode</a> and  <a href="https://oj.luyencode.net/user-home?username=hoainamnv34">luyencode.net</a>.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
